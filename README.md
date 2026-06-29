@@ -208,8 +208,8 @@ This project is licensed under the MIT License.
 
 **Vivek Shah**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/Vivekshah8791
+- LinkedIn: https://www.linkedin.com/in/vivek-shah-87916v
 
 ---
 
