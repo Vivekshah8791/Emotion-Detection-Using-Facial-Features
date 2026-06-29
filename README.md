@@ -84,13 +84,13 @@ Face-Emotion-Detection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Face-Emotion-Detection.git
+git clone https://github.com/Vivekshah8791/Emotion-Detection-Using-Facial-Features.git
 ```
 
 ### 2. Navigate to the project
 
 ```bash
-cd Face-Emotion-Detection
+cd Emotion-Detection-Using-Facial-Features
 ```
 
 ### 3. Create a virtual environment (Optional)
